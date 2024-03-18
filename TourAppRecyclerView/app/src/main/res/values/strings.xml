@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TourAppRecyclerView</string>
+    <string name="Gdansk">Gdańsk</string>
+    <string name="Gdynia">Gdynia</string>
+    <string name="Sopot">Sopot</string>
+    <string name="gdansk_description">Miasto na prawach powiatu w północnej Polsce w województwie pomorskim, położone nad Morzem Bałtyckim u ujścia Motławy do Wisły nad Zatoką Gdańską, największe pod względem powierzchni miasto w kraju. Centrum kulturalne, naukowe i gospodarcze oraz węzeł komunikacyjny północnej Polski, stolica województwa pomorskiego. Ośrodek gospodarki morskiej z drugim co do wielkości portem handlowym Morza Bałtyckiego.</string>
+    <string name="gdynia_description">Miasto na prawach powiatu w północnej Polsce, w województwie pomorskim, położone nad Morzem Bałtyckim, na Pobrzeżu Gdańskim i Pojezierzu Wschodniopomorskim. Wchodzi w skład Trójmiasta (wraz z Gdańskiem i Sopotem), jest zatem jednym z miast centralnych aglomeracji Trójmiasta. Według stanu na koniec 2021 roku Gdynia liczy ok. 244 000 zameldowanych mieszkańców (dwunaste miejsce w Polsce), a liczba ludności przekracza 257 000. Po nowym podziale działek terenu morskiego zwiększyła powierzchnię do 391 km² (wcześniej 135,1 km²) z czego 66 proc. obejmuje obszar morski. Jest najludniejszym w Polsce miastem niewojewódzkim.</string>
+    <string name="sopot_description">Miasto na prawach powiatu w północnej Polsce nad Zatoką Gdańską (Morze Bałtyckie), położone na Pobrzeżu Gdańskim, między Gdańskiem a Gdynią, z którymi tworzy Trójmiasto, w obrębie aglomeracji trójmiejskiej. Jest najmniejszym[a] pod względem liczby ludności miastem na prawach powiatu w Polsce oraz najmniejszym pod tym samym względem miastem, którego organem władzy wykonawczej jest prezydent.</string>
+</resources>
